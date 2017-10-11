@@ -1,0 +1,77 @@
+body{
+background-image: url("wallpaper2.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:100% 100%;
+align-content:center; 
+align-items: center;
+text-align: center;
+}
+#div1{
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 500px;
+	height: 330px;
+align-self: center;
+margin-top: 160px;
+margin-left: 450px;
+align-content: center;
+align-items: center;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 25px;
+
+}
+#p1{
+	font-size: 35px;
+text-shadow: 2px 2px black;
+color: blue;
+}
+#p2{
+font-size: 20px;
+}
+input[type=text]{
+	border: 1px solid blue;
+    border-radius: 4px;
+    margin-left: 10px;
+    height: 20px;
+}
+input[type=password]{
+	border: 1px solid blue;
+    border-radius: 4px;
+    margin-left: 10px;
+    height: 20px;
+}
+.button1{
+	border: none;
+	height: 30px;
+	width: 250px;
+	border-radius: 10px;
+background-color: rgba(102, 102, 190,0.7);
+font-size: 20px;}
+.button1:hover{
+	opacity: 1.0;
+background-color: rgb(102, 102, 190);
+}
+.button2{
+	border: none;
+	height: 30px;
+	width: 250px;
+	border-radius: 10px;
+background-color:rgba(102, 102, 190,0.7);
+font-size:20px; }
+.button2:hover{
+   opacity: 1.0;
+	background-color: rgb(102, 102, 190);
+}
+.button3{
+	border: none;
+	height: 20px;
+	width: 171px;
+	border-radius: 5px;
+background-color: rgba(102, 102, 190,0.7);
+font-size: 16px;}
+.button3:hover{
+opacity: 1.0;
+	background-color: rgb(102, 102, 190);
+}
